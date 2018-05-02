@@ -1,0 +1,4 @@
+#ignore folder log
+log/
+*.txt
+*.png
